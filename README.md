@@ -4,12 +4,15 @@ Se utilizarán tres tipos principales: Usuario, Comic y Colección de Comics.
 **1. Usuario:**
    - Atributos: `id`, `nombre`, `correoElectrónico`, 'colección de comics.
    - Objetivo: Gestionar información sobre usuarios que pueden tener cómics asociados.
+     
 **2. Comic:**
    - Atributos: `id`, `título`, `descripción`, `formato`.
    - Objetivo: Manejar información individual de cómics.
+     
 **3. Colección de Comics:**
    - Atributos: `id`, `nombre`, `comics` (una lista de cómics pertenecientes a la colección).
    - Objetivo: Administrar colecciones que contienen cómics específicos.
+     
 # Funcionalidades Esperadas:
 **- Usuarios:**
   - Crear un nuevo usuario.
