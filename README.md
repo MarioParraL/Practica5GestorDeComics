@@ -1,6 +1,6 @@
 # Practica5GestorDeComics
 Se utilizarán tres tipos principales: Usuario, Comic y Colección de Comics.
-#Tipos de Datos:
+# Tipos de Datos:
 1. Usuario:
    - Atributos: `id`, `nombre`, `correoElectrónico`, 'colección de comics.
    - Objetivo: Gestionar información sobre usuarios que pueden tener cómics asociados.
@@ -10,7 +10,7 @@ Se utilizarán tres tipos principales: Usuario, Comic y Colección de Comics.
 3. Colección de Comics:
    - Atributos: `id`, `nombre`, `comics` (una lista de cómics pertenecientes a la colección).
    - Objetivo: Administrar colecciones que contienen cómics específicos.
-#Funcionalidades Esperadas:
+# Funcionalidades Esperadas:
 - Usuarios:
   - Crear un nuevo usuario.
   - Obtener información de un usuario por su ID.
