@@ -29,3 +29,5 @@ Se utilizarán tres tipos principales: Usuario, Comic y Colección de Comics.
   - Eliminar un cómic.
 Encadenado de Información:
 Se esperan consultas GraphQL que permitan obtener información encadenada. Por ejemplo, en una colección de un usuario guardaremos los comics como un array de IDs y después lo devolveremos como un objeto completo gracias a un encadenado.
+
+# Endpoints:
