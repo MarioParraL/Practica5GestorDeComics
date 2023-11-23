@@ -20,7 +20,7 @@ Se utilizarán tres tipos principales: Usuario, Comic y Colección de Comics.
   - Obtener una lista de todos los usuarios.
   - Actualizar información de un usuario existente.
   - Eliminar un usuario.
-    
+
 **- Cómics:**
   - Crear un nuevo cómic.
   - Obtener información de un cómic por su ID.
